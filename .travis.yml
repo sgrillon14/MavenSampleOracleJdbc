@@ -1,0 +1,13 @@
+language: java
+sudo: false
+dist: precise
+install: true
+
+jdk:
+- oraclejdk8
+
+before_install:
+- chmod +x test/run.sh
+  
+script:
+- test/run.sh
