@@ -1,7 +1,7 @@
 # MavenSampleOracleJdbc
 Maven sample project for use a Oracle JDBC Driver
 
-# how to use on local environment
+# How to use on local environment
 
 change ${OTN_USERNAME} by your Oracle login in test/mvnsettings.xml file
 
@@ -11,7 +11,7 @@ change ${OTN_PASSWORD} by your Oracle password in test/mvnsettings.xml file
 mvn clean install --settings test/mvnsettings.xml
 ```
 
-# how to use on travis-ci
+# How to use on travis-ci
 
 ![TravisCi](/screenshots/travis-ci.png)
 
