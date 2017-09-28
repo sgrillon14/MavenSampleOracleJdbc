@@ -20,4 +20,4 @@ mvn clean install --settings test/mvnsettings.xml
 
 # License
 
-[![license](https://img.shields.io/github/license/sgrillon14/MavenSampleOracleJdbc.svg)](https://github.com/sgrillon14/MavenSampleOracleJdbc/blob/master/LICENSE) + Oracle Technology Network License Agreement, See LICENSE for details
+BSD-3-Clause + Oracle Technology Network License Agreement, See LICENSE for details
