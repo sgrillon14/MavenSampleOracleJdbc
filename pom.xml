@@ -8,7 +8,7 @@
 	<version>1.0.0-SNAPSHOT</version>
 
 	<properties>
-		<oracle.driver.version>12.2.0.1</oracle.driver.version>
+		<oracle.driver.version>12.2.0.1.0</oracle.driver.version>
 	</properties>
 
 	<repositories>
